@@ -13,8 +13,8 @@ The user will begin in front of a house on the north side of the map. They will 
 
 ## Technologies:
 
-- Unreal Engine 4
-- C++
+- Unity
+- C#
 - Blender
 - Krita
 
